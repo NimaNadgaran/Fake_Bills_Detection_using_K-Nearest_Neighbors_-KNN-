@@ -62,4 +62,7 @@ Check training and testing accuracy.
 ```
 Training accuracy: 0.9933333333333333
 Testing accuracy: 0.99
+
 ```
+
+Also the name of the file of the code comes from the brand of my freind's bag.
