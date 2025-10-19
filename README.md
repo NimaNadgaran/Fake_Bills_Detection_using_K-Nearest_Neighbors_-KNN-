@@ -65,4 +65,5 @@ Testing accuracy: 0.99
 
 ```
 
-Also the name of the file of the code comes from the brand of my freind's bag.
+Also the name of the file of the code comes from the brand of my friend's bag.
+
